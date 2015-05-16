@@ -1,1 +1,9 @@
 /*Nitin's notes for git*/
+git add //Addfile
+git commit -m "message" //Commit changes with message
+git push origin branchname //Push from branchname to origin
+git status //Check status
+git clone path //Clone a repo
+git checkout -b newbranchname //Create and switch to newbranchname
+git checkout newbranchname //Switch to new branchname
+git pull //get updated files

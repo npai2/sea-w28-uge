@@ -1,1 +1,7 @@
 /*Nitin's notes for Unix*/
+ls - list
+cd - change directory
+mkdir - make directory
+rm - remove file
+make - use makefil
+mv oldname newname - change name
